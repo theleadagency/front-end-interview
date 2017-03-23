@@ -116,3 +116,12 @@ JavaScript.
 The view that you’ll be using is in the following location:
 
 -   **/Views/Home/Index.cshtml**
+
+
+## When your finished
+1. Bundle up your repository using the following command:
+    ```bash
+    git bundle create front-end-interview.bundle --all
+    ```
+2. Upload the file you just created **"front-end-interview.bundle"** to your prefered file sharing provider
+3. Finally email us the download link: <luke.miles@theleadagency.com>
